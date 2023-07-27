@@ -1,0 +1,20 @@
+.footer{
+    background-color: seagreen;
+  }
+  
+  .footer__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    height: 100px;
+  }
+
+  .social{
+    display: flex;
+    gap: 30px;
+  }
+
+  a.footer__copy{
+    color: white;
+  }

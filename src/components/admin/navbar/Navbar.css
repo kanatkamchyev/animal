@@ -1,0 +1,31 @@
+.amin__toper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: seagreen;
+    padding: 20px 50px;
+    width: 100%;
+}
+
+.navbar__name{
+    font-size: 16px;
+    color: white;
+}
+
+.navbar__name b{
+    font-size: 22px;
+    color: white;
+}
+
+.adin__navbar__links{
+    position: absolute;
+    left: 0;
+    margin-top: 20px;
+}
+
+.adin__navbar__links a{
+    display: block;
+    padding: 10px 30px;
+    background-color: seagreen;
+    color: white;
+}

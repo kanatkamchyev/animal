@@ -1,0 +1,147 @@
+.Loged{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    background-image: url('../../assets/images/sign.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Loged form{
+    padding: 20px 40px;
+}
+
+.Loged .login__title{
+    font-size: 32px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.Loged form input{
+    min-width: 400px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border:none;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    outline: none;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+    text-align: center;
+}
+
+.Loged form button{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 5px 60px;
+    color: black;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Loged .Loged__inside span{
+    width: 100px;
+    color: red;
+}
+
+.Loged form a p{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 5px 60px;
+    color: black;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
+.AdminNews{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    background-image: url('../../assets/images/sign.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.AdminNews form{
+    padding: 20px 40px;
+}
+
+.AdminNews .login__title{
+    font-size: 32px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.AdminNews form input{
+    min-width: 400px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border:none;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    outline: none;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+    text-align: center;
+}
+
+.AdminNews form button{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 5px 60px;
+    color: black;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.AdminNews .Loged__inside span{
+    width: 100px;
+    color: red;
+}
+
+.AdminNews form a p{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 5px 60px;
+    color: black;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.AdminNews select{
+    min-width: 400px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border:none;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    outline: none;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+    text-align: center;
+}

@@ -1,0 +1,62 @@
+
+.carousel{
+    margin-bottom: 100px;
+  }
+  
+  .carousel__item-box{
+    border: 1px solid #C4C4C4;
+    padding: 6px 6px 16px 6px;
+    text-align: center;
+    transition: all .5s;
+    width: 391px;
+    height: 354px;
+  }
+  
+  .carousel__item-box:hover{
+    color: #fff;
+    background-color: #5A0D67;
+    border-color: #5A0D67;
+  }
+  
+  .carousel__item-img{
+    width: 375px;
+    height: 250px;
+    margin-bottom: 23px;
+  }
+  
+  .carousel__item-title{
+    font-weight: 300;
+    margin-bottom: 5px;
+  }
+
+  .carousel .slick-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    list-style: none;
+  }
+
+  .slick-slider .slick-track, .slick-slider .slick-list{
+    margin-bottom: 30px;
+  }
+
+  .carousel .slick-dots li{
+    margin-right:50px;
+  } 
+
+  .carousel .slick-dots button:before {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 2px;
+    background-color: #c4c4c4;
+  }
+  
+  .carousel .slick-active button {
+    border-color: #5a0d67;
+  }
+  
+  .carousel .slick-active button:before {
+    background-color: #5a0d67;
+  }
+

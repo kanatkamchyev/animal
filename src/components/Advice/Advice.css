@@ -1,0 +1,51 @@
+.Advice{
+    margin-bottom: 50px;
+}
+
+.advice__item{
+    margin-bottom: 30px;
+    background-color: seagreen;
+    border-radius: 80px;
+    width: 100%;
+}
+
+.advice__item.active{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.advice__item-inner{
+    padding: 10px 20px;
+}
+
+.advice__inner-time{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.advice__icon svg{
+    cursor: pointer;
+    color: white;
+    font-size: 32px;
+}
+
+.advice__title{
+    font-size: 26px;
+    color: white;
+}
+
+.advice__description{
+    margin-top: 20px;
+    font-size: 18px;
+    color: white;
+}
+
+.advice-title{
+    margin-top: 10px;
+    font-size: 32px;
+    color: black;
+    margin-bottom: 20px;
+}
